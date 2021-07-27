@@ -13,7 +13,7 @@
   <img src="https://telegra.ph/file/d9a6cdcd9ec7f104c7584.jpg">
 </p>
 
-# SAVAGE MANAGEMENT BOT
+# TALENTED MANGEMENT BOT
 Me On Telegram [✨talented bot✨ ](http://t.me/talented_x_BOT)
 
 ## How To Host
