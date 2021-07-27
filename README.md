@@ -1,20 +1,20 @@
 <p align="center">
-    <a href="https://github.com/MdNoor786/ShasaBot-1/stargazers"><img src="https://img.shields.io/github/stars/MdNoor786/ShasaBot-1?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/fran_x_queen/talented bot/stargazers"><img src="https://img.shields.io/github/stars/fran_X_queen/talented bot?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
-    <a href="https://app.codacy.com/manual/sameerpanthi/SAVAGE-MANAGER-2.0/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/sameerpanthi/SAVAGE-MANAGER-2.0"> <img src="https://img.shields.io/github/repo-size/sameerpanthi/SAVAGE-MANAGER-2.0?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/MdNoor786/ShasaBot-1/issues"> <img src="https://img.shields.io/github/issues/sameerpanthi/SAVAGE-MANAGER-2.0?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/MdNoor786/ShasaBot-1/network/members"> <img src="https://img.shields.io/github/forks/sameerpanthi/SAVAGE-MANAGER-2.0?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://app.codacy.com/manual/fran_x_queen/talented bot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/fran_x_queen/talented bot"> <img src="https://img.shields.io/github/repo-size/fran_x_queen/talented bot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/fran_x_queen/talented bot/issues"> <img src="https://img.shields.io/github/issues/fran_x_queen/talented bot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/fran_x_queen/ShasaBot-1/network/members"> <img src="https://img.shields.io/github/forks/fran_x_queen/talented bot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/52a4f3628ea7975119b5c.jpg">
+  <img src="https://telegra.ph/file/d9a6cdcd9ec7f104c7584.jpg">
 </p>
 
 # SAVAGE MANAGEMENT BOT
-Me On Telegram [✨SAVAGE MANAGER✨](http://t.me/SAVAGE_MANAGEMENT_BOT)
+Me On Telegram [✨talented bot✨ ](http://t.me/talented_x_BOT)
 
 ## How To Host
 The easiest way to deploy this Bot
