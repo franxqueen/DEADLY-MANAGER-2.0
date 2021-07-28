@@ -5,7 +5,7 @@
     <a href="https://app.codacy.com/manual/fran_x_queen/talented bot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/fran_x_queen/talented bot"> <img src="https://img.shields.io/github/repo-size/fran_x_queen/talented bot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/fran_x_queen/talented bot/issues"> <img src="https://img.shields.io/github/issues/fran_x_queen/talented bot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/fran_x_queen/ShasaBot-1/network/members"> <img src="https://img.shields.io/github/forks/fran_x_queen/talented bot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/fran_x_queen/talented bot/network/members"> <img src="https://img.shields.io/github/forks/fran_x_queen/talented bot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
