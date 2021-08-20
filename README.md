@@ -14,7 +14,7 @@
 </p>
 
 # TALENTED MANGEMENT BOT
-Me On Telegram [✨talented bot✨ ](http://t.me/talented_x_BOT)
+Me On Telegram [✨mrs_mysterious_bot / fran_x_queen✨ ](http://t.me/talented_x_BOT)
 
 ## How To Host
 The easiest way to deploy this Bot
